@@ -90,7 +90,7 @@ Model Summary:
         ├── stage_04_model_training.py      <- script for training the model.
         ├── stage_05_model_evaluation.py    <- script for evaluating the model performance. 
         └── pipeline.py                     <- script for running the model on test dataset. 
-
+```
 
 ## AWS deployment
 Deployment paused for cost optimization; demo available: https://drive.google.com/file/d/1oGmXqCER4aphxiDVhylu5L4IdGU3Zkk2/view?usp=sharing
